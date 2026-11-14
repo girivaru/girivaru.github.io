@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ravindra G.V."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+#  bio              : "Short biography for the left-hand sidebar"
   location         : "St. Louis"
   employer         : "UMSL"
   uri              : # URL
